@@ -2,7 +2,7 @@
 //Start
 #include<stdio.h>//preprosecer directive to include header file
 int main(){
-	printf("hello world");// here we enter print 
+	printf("hello world");// here we entered text to print 
 	return 0;//returning
 } 
 //End
